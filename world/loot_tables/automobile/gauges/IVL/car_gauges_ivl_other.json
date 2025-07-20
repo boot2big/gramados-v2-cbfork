@@ -6,37 +6,72 @@
                 {
                     "type": "item",
                     "name": "mts:ivv.clusterclassic",
-                    "weight": 5
+                    "weight": 1
                 },
                 {
                     "type": "item",
                     "name": "mts:ivv.clustermodern",
-                    "weight": 5
+                    "weight": 1
                 },
                 {
                     "type": "item",
-                    "name": "mts:ivv.clock",
-                    "weight": 5
+                    "name": "mts:ivv.mphdigital",
+                    "weight": 2
                 },
                 {
                     "type": "item",
-                    "name": "mts:ivv.2gear",
-                    "weight": 5
+                    "name": "mts:ivv.odo",
+                    "weight": 3
                 },
                 {
                     "type": "item",
-                    "name": "mts:ivv.1gear",
-                    "weight": 5
+                    "name": "mts:ivv.tachdigital",
+                    "weight": 2
                 },
                 {
                     "type": "item",
                     "name": "mts:ivv.compass",
-                    "weight": 5
+                    "weight": 3
                 },
                 {
                     "type": "item",
                     "name": "mts:ivv.forzahud",
-                    "weight": 5
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "mts:ivv.gforcemeter",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "mts:ivv.kmhdigital",
+                    "weight": 2
+                },
+                {
+                    "type": "item",
+                    "name": "mts:ivv.hours",
+                    "weight": 2
+                },
+                {
+                    "type": "item",
+                    "name": "mts:ivv.fueldigital",
+                    "weight": 2
+                },
+                {
+                    "type": "item",
+                    "name": "mts:ivv.2gear",
+                    "weight": 2
+                },
+                {
+                    "type": "item",
+                    "name": "mts:ivv.clock",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "mts:ivv.1gear",
+                    "weight": 4
                 },
                 {
                     "type": "item",
@@ -45,48 +80,18 @@
                 },
                 {
                     "type": "item",
-                    "name": "mts:ivv.fuelcarb",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "mts:ivv.fueldigital",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
                     "name": "mts:ivv.fuelelectric",
-                    "weight": 5
+                    "weight": 4
                 },
                 {
                     "type": "item",
                     "name": "mts:ivv.fueltemp",
-                    "weight": 5
+                    "weight": 4
                 },
                 {
                     "type": "item",
                     "name": "mts:ivv.fueltempbattoil",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "mts:ivv.gaugebase",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "mts:ivv.gaugeneedle",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "mts:ivv.gforcemeter",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "mts:ivv.hours",
-                    "weight": 5
+                    "weight": 3
                 },
                 {
                     "type": "item",
@@ -95,22 +100,7 @@
                 },
                 {
                     "type": "item",
-                    "name": "mts:ivv.kmhdigital",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
                     "name": "mts:ivv.mph",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "mts:ivv.mphdigital",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "mts:ivv.odo",
                     "weight": 5
                 },
                 {
@@ -126,22 +116,17 @@
                 {
                     "type": "item",
                     "name": "mts:ivv.oilpower",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "mts:ivv.tachdigital",
-                    "weight": 5
+                    "weight": 4
                 },
                 {
                     "type": "item",
                     "name": "mts:ivv.tachmarkless",
-                    "weight": 5
+                    "weight": 3
                 },
                 {
                     "type": "item",
                     "name": "mts:ivv.tachshifter",
-                    "weight": 5
+                    "weight": 3
                 },
                 {
                     "type": "item",
